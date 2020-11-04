@@ -7,19 +7,19 @@ table {
     }
     
     .red{
-       color:red
+       color:red;
    }
    .green{
-       color:green
+       color:green;
    }
    .blue{
-       color:#007eff
+       color:#007eff;
    }
    .bold{
        font-weight:600;
    }
    .italic{
-       font-style:italic
+       font-style:italic;
    }
    .underline{
        text-decoration:underline;
